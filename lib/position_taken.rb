@@ -5,7 +5,5 @@ def position_taken?(board, index)
   else
     true
 end
-end
-
 # this'll look like
 # position_taken?()
